@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hymnisacripoeta00unkngoog_0091.png"; bbox 0 0 2358 3966; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 583 197 627 262">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 583 197 627 262">
+     <span class='ocr_line' id='line_1_1' title="bbox 583 197 627 262; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 583 197 627 262; x_wconf 75' lang='lat'><strong>90</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 527 288 687 298">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 527 288 687 298">
+     <span class='ocr_line' id='line_1_2' title="bbox 527 288 687 298; baseline -0.006 -1"><span class='ocrx_word' id='word_1_2' title='bbox 527 288 687 298; x_wconf 79' lang='lat'>-—-—--..-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 349 403 775 822">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 349 403 775 822">
+     <span class='ocr_line' id='line_1_3' title="bbox 353 403 768 478; baseline -0.029 -8"><span class='ocrx_word' id='word_1_3' title='bbox 353 403 455 471; x_wconf 67' lang='lat' dir='ltr'><strong>verbo</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 469 405 672 478; x_wconf 62' lang='lat' dir='ltr'><strong>suosrofom</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 764 452 768 458; x_wconf 92' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 349 519 745 604; baseline 0.008 -19"><span class='ocrx_word' id='word_1_6' title='bbox 349 519 416 586; x_wconf 81' lang='lat' dir='ltr'><strong>‘Ne</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 431 521 553 589; x_wconf 67' lang='lat' dir='ltr'><strong>timete!</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 569 521 745 604; x_wconf 50' lang='lat' dir='ltr'><strong>«linquaque</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 351 636 699 720; baseline -0.014 -17"><span class='ocrx_word' id='word_1_9' title='bbox 351 636 446 703; x_wconf 84' lang='lat' dir='ltr'>Vobis</span> <span class='ocrx_word' id='word_1_10' title='bbox 459 639 549 702; x_wconf 80' lang='lat' dir='ltr'><strong>adero</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 562 638 699 720; x_wconf 82' lang='lat' dir='ltr'>locoque,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 352 752 775 822; baseline -0.017 -2"><span class='ocrx_word' id='word_1_12' title='bbox 352 753 457 821; x_wconf 77' lang='lat' dir='ltr'><strong>Donec</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 472 756 597 822; x_wconf 79' lang='lat' dir='ltr'><strong>mundus</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 613 752 775 822; x_wconf 44' lang='lat' dir='ltr'><strong>concidam?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1184 3966">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1184 3966">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1184 3966; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1184 3966; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
